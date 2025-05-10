@@ -1,1 +1,6 @@
 /logs
+# ignore model
+*.best_model_so_far_5_10.keras
+*.best_model_so_far_11_10_2.keras
+*.best_model_so_far_11_10.keras
+*.best_model_so_far_13.keras
